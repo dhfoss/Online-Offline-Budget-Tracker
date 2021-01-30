@@ -5,13 +5,14 @@ const DATA_CACHE_NAME = "data-cache-v1";
 
 // Files from the app to save on the client side
 const FILES_TO_CACHE =[
-    "/",
-    "/styles.css",
-    "/icons/icon-192x192.png",
-    "/icons/icon-512x512.png",
-    "/index.html",
-    "/index.js",
-    "/manifest.webmanifest"
+  "/",
+  "/styles.css",
+  "/icons/icon-192x192.png",
+  "/icons/icon-512x512.png",
+  "/index.html",
+  "/index.js",
+  "/manifest.webmanifest",
+  "/db.js"
 ]
 
 // install
